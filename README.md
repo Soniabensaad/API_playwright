@@ -1,2 +1,2 @@
-# POM_playwright_E-commerce
-POM_playwright_E-commerce
+# API_playwright
+API_playwright
